@@ -65,6 +65,25 @@
               }
             ],
             "toolsDependencies": []
+          },
+		  {
+            "name": "3DXFAB Research AVR Boards",
+            "architecture": "avr",
+            "version": "1.1.2",
+            "category": "Contributed",
+            "url": "https://raw.githubusercontent.com/3DXFAB/Arduino_Boards/master/IDE_Board_Manager/3dxfabboards-1.1.2.tar.bz2",
+            "archiveFileName": "3dxfabboards-1.1.2.tar.bz2",
+            "checksum": "SHA-256:3afb0bdf1e3520d6e079e625499b3b59d2b5229cf3c9a186c3c5dca663e1acbe",
+            "size": "164283",
+            "help": {
+              "online": "https://github.com/3DXFAB/Arduino_Boards/blob/master/IDE_Board_Manager/3dxfabboards-1.1.2.md"
+            },
+            "boards": [
+              {
+                "name": "3DXFAB MK3/MK3S Einsy RAMBo"
+              }
+            ],
+            "toolsDependencies": []
           }
         ],
         "tools":[]
