@@ -1,5 +1,5 @@
-# 3DXFAB Research AVR Boards
-3DXFAB Research AVR Boards definitions for Arduino compatible boards open-source by Ultimachine
+# ARCTIEX RESEARCH AVR Boards
+ARCTIEX RESEARCH AVR Boards definitions for Arduino compatible boards open-source by Ultimachine
 - Einsy RAMBo boards open-source by [Ultimachine](https://github.com/ultimachine/Einsy-Rambo)
 
 # Table of contents
